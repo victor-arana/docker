@@ -1,0 +1,5 @@
+# Compose several dockers
+docker-compose up -d
+
+# Build docker project
+docker build -t victorarana/shopfront
